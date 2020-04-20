@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="judul">Daftar Kontak</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Add_New">Tambah Kontak</string>
+    <string name="edit">Edit Kontak</string>
+    <string name="delete">Delete Kontak</string>
+    <string name="title_activity_display_contact">DisplayContact</string>
+    <string name="name">Name</string>
+    <string name="notel">No. Telepon</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="save">Simpan</string>
+    <string name="deleteContact">Beneran mau download kontak doi?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
